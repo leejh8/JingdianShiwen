@@ -1,22 +1,14 @@
-# JingdianShiwen
-[Under construction] Repository for archiving of dataset and Python scripts used in the doctoral dissertation
+# 육덕명(陸德明) 《경전석문(經典釋文)》 연구 - 디지털 인문학적 분석
+박사학위논문에 사용된 데이터 및 Python 코드의 저장소입니다.
 
-## Status: Preparing for Public Release (Under Construction)
-
-This repository is established to archive the dataset and Python scripts used in the doctoral dissertation by JAEHYUK LEE at SEOUL NATIONAL UNIVERSITY.
-
-Currently, the code and data are being organized and documented for public release. The full content will be uploaded immediately following the final approval and publication of the dissertation.
-
-### Expected Release Date
-* Upon degree conferral (2026 FEB)
-
-### Contents to be Uploaded
-* Text Database: Preprocessed text data of Jingdian Shiwen
-    (Raw data from Kanripo, Wikisource, etc.)
-* Python Scripts:
-    * Text preprocessing
-    * Network analysis logic for *Fanqie* (反切) concatenation.
-    * N-gram extraction tools.
+저자: 이재혁(b.1990)
+발행기관: 서울대학교 인문대학
+발행년도: 2026
+학위수여년월: 2026. 2.
+학위명: 박사
+학과 및 전공: 인문대학 중어중문학과
+본문 언어: 한국어
 
 ---
-Contact: a.marcello90@gmail.com
+leejh8.sino@gmail.com
+
